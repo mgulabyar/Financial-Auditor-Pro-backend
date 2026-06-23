@@ -25,11 +25,6 @@
 #             "stats": stats_report,
 #             "ai_analysis": ai_summary,
 #         }
-#         db_id = await DBService.save_report(audit_doc)
-
-#         return {
-#             "status": "success",
-
 
 
 from fastapi import APIRouter, HTTPException
