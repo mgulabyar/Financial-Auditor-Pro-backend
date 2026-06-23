@@ -1,12 +1,3 @@
-# from fastapi import FastAPI
-# from fastapi.middleware.cors import CORSMiddleware
-# from routes import audit_routes
-# import uvicorn
-
-# app = FastAPI(title="AI Financial Auditor Enterprise")
-
-
-
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from routes import audit_routes
