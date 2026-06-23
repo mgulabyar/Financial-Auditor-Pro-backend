@@ -31,8 +31,6 @@
 #             "status": "success",
 #             "report_id": db_id,
 #             "statistics": stats_report,
-#             "ai_analysis": ai_summary,
-#         }
 
 
 from fastapi import APIRouter, HTTPException
