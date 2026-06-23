@@ -18,12 +18,6 @@
 #             "4. Keep the tone formal and executive."
 #         )
 
-#         user_prompt = f"Statistics: {stats_report}\nData Preview: {raw_data[:500]}"
-
-#         try:
-#             # --- MODEL NAME UPDATED HERE ---
-#             response = await client.chat.completions.create(
-
 
 import os
 from openai import AsyncOpenAI
