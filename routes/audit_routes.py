@@ -29,8 +29,7 @@
 
 #         return {
 #             "status": "success",
-#             "report_id": db_id,
-#             "statistics": stats_report,
+
 
 
 from fastapi import APIRouter, HTTPException
