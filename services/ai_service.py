@@ -29,10 +29,6 @@
 #                     {"role": "user", "content": user_prompt},
 #                 ],
 #             )
-#             return response.choices[0].message.content
-#         except Exception as e:
-#             # Agar phir bhi fail ho toh error log karein
-#             print(f"Detailed Error: {str(e)}")
 
 import os
 from openai import AsyncOpenAI
