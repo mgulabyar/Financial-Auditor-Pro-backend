@@ -13,10 +13,6 @@
 #     data: List[Dict]
 
 
-# @router.post("/scan")
-# async def scan_data(req: AuditRequest):
-#     try:
-#         stats_report, raw_summary = AuditService.perform_statistical_audit(req.data)
 
 
 
