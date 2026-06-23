@@ -18,8 +18,6 @@
 #     try:
 #         stats_report, raw_summary = AuditService.perform_statistical_audit(req.data)
 
-#         ai_summary = await AIService.get_audit_summary(stats_report, raw_summary)
-
 
 
 
