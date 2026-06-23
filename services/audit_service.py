@@ -48,5 +48,5 @@ class AuditService:
             "anomalies": anomalies,
             "health_score": health_score,
         }
-
+# 
         return report, df.to_string()
