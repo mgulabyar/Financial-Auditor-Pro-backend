@@ -33,7 +33,6 @@
 #             "statistics": stats_report,
 #             "ai_analysis": ai_summary,
 #         }
-#     except Exception as e:
 #         print(f"Error: {e}")
 
 
