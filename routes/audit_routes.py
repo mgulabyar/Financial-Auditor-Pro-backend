@@ -1,19 +1,3 @@
-# from fastapi import APIRouter, HTTPException
-# from pydantic import BaseModel
-# from typing import List, Dict
-# from datetime import datetime
-# from services.audit_service import AuditService
-# from services.ai_service import AIService
-# from services.db_service import DBService
-
-# router = APIRouter(prefix="/api/audit", tags=["Auditor"])
-
-
-# class AuditRequest(BaseModel):
-#     data: List[Dict]
-
-
-
 
 
 
