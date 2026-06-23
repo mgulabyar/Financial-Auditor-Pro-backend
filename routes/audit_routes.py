@@ -33,7 +33,6 @@
 #             "statistics": stats_report,
 #             "ai_analysis": ai_summary,
 #         }
-#         print(f"Error: {e}")
 
 
 from fastapi import APIRouter, HTTPException
