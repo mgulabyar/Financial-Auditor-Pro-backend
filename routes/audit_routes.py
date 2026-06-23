@@ -20,11 +20,7 @@
 
 #         ai_summary = await AIService.get_audit_summary(stats_report, raw_summary)
 
-#         audit_doc = {
-#             "timestamp": datetime.utcnow(),
-#             "stats": stats_report,
-#             "ai_analysis": ai_summary,
-#         }
+
 
 
 from fastapi import APIRouter, HTTPException
