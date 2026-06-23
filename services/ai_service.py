@@ -23,9 +23,7 @@
 #         try:
 #             # --- MODEL NAME UPDATED HERE ---
 #             response = await client.chat.completions.create(
-#                 model="gpt-4o",  # gpt-4-turbo-preview ko badal kar gpt-4o kar diya
-#                 messages=[
-#                     {"role": "system", "content": system_prompt},
+
 
 import os
 from openai import AsyncOpenAI
