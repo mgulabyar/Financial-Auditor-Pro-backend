@@ -6,12 +6,6 @@
 
 # class AIService:
 #     @staticmethod
-#     async def get_audit_summary(stats_report, raw_data):
-#         client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-
-#         system_prompt = (
-#             "You are an Elite Financial Auditor. Analyze the findings and give a professional executive summary. "
-#             "STRICT RULES: \n"
 
 
 import os
